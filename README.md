@@ -6,5 +6,5 @@
 
 ### Connect with me:
 
-[linkedin]: https://www.linkedin.com/in/nevrakaya/
+[LinkedIn](https://www.linkedin.com/in/nevrakaya/)
 
