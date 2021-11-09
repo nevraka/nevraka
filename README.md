@@ -20,3 +20,9 @@
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/nevraka/nevraka">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevraka&theme=onedark&show_icons=true&line_height=24&hide_border=true) />
+</a>
