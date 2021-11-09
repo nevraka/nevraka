@@ -1,7 +1,7 @@
 ### Hello,
 
 - 🌱 I’m looking to collaborate on front-end projects with React and Next.js.
-- 🚀 I'm curretly attend to 9-week, intensive, full stack web development bootcamp at Ironhack.
+- 🚀 I'm curretly attending 9-week, intensive, full stack web development bootcamp at Ironhack.
 - 👨‍💻 All of my projects are available at my GitHub account.
 
 ### Contact with me:
