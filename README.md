@@ -26,4 +26,5 @@
 [![Nevra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevraka&show_icons=true&line_height=24&hide_border=true&theme=outrun)
 )](https://github.com/nevraka/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevraka&theme=outrun&hide=shell&hide_title=true&layout=compact&hide_border=true)])](https://github.com/nevraka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevraka&theme=outrun&hide=shell&hide_title=true&layout=compact&hide_border=true)
+)](https://github.com/nevraka/github-readme-stats)
