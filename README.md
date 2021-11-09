@@ -23,6 +23,4 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/nevraka/nevraka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevraka&theme=onedark&show_icons=true&line_height=24&hide_border=true) />
-</a>
+[![Nevra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevraka)](https://github.com/nevraka/github-readme-stats)
