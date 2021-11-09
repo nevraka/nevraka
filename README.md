@@ -23,4 +23,5 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Nevra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevraka)](https://github.com/nevraka/github-readme-stats)
+[![Nevra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevraka&show_icons=true&line_height=24&hide_border=true&theme=outrun)
+)](https://github.com/nevraka/github-readme-stats)
